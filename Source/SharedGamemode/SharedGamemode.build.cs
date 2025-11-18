@@ -47,7 +47,9 @@ public class SharedGamemode : ModuleRules
 				"CoreUObject",
 				"Engine",
 				"Slate",
-				"SlateCore",				
+				"SlateCore",
+				"Json",
+				"JsonUtilities",
 			});
 		
 		
